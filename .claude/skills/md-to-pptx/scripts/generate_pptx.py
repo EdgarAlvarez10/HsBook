@@ -20,7 +20,7 @@ from pathlib import Path
 from pptx import Presentation
 
 SCRIPT_DIR = Path(__file__).parent
-TEMPLATE_PATH = SCRIPT_DIR.parent / "template.pptx"
+TEMPLATE_PATH = SCRIPT_DIR.parent / "assets" / "template.pptx"
 
 LAYOUT_INDEX = {
     "Cover_Dark": 1,

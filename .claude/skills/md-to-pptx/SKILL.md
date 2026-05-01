@@ -19,7 +19,8 @@ Parse it to get the markdown file path. If none provided, ask the user.
 
 Derive the output path by replacing the `.md` extension with `.pptx` and placing it in the same directory as the input file.
 
-The script lives at: `.claude/skills/md-to-pptx/scripts/generate_pptx.py` relative to the project root.
+The script lives at: `.claude/skills/md-to-pptx/scripts/generate_pptx.py` relative to the project root. Run the script but do not read its code — it is a black box that takes a JSON plan and produces a PowerPoint file. Your job is to create the JSON plan based on the chapter content.
+The EPAM PowerPoint template is located at `.claude/skills/md-to-pptx/assets/template.pptx`.
 The JSON plan is a file: same directory as the output, named `_slides_plan.json`. Keep the file in case we want to compare the plan to the final output for debugging or improvement.
 
 ## Step 2 — Read and analyze the chapter

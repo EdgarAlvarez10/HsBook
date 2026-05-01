@@ -95,7 +95,7 @@ And AI multiplies what exists. It does not create what is missing, it won't make
 
 **Zero multiplied by AI still zero**
 
-And AI fills the gaps on each area of expertise. So, if you're a π-shaped developer with good Java and decent React, you could potentialize the weak area with the help of AI. You can still judge the AI outputs because you have enough knowledge to see if they match your expectations. AI democratized the expertise but you still have to judge it.
+And AI fills the gaps on each area of expertise. So, if you're a π-shaped developer with good Java and decent React, you could potentialize the weak area (React in this case) with the help of AI. You can still judge the AI outputs because you have enough knowledge to see if they match your expectations. AI democratized the expertise but you still have to judge it.
 
 ![Engineer shapes with AI](EngineerShapes+AI.png)
 
