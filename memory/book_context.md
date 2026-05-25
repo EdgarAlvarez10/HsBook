@@ -11,7 +11,7 @@ The book is written for **software engineers**. The reader is a developer.
 
 ## Author
 
-Edgar — software architect, language-agnostic, M-shaped developer. Writes from personal experience.
+Edgar — Senior Solutions Architect, Head of Core Engineering leading ~700 engineers, language-agnostic, M-shaped developer. Writes from personal experience.
 
 ## Tone
 
