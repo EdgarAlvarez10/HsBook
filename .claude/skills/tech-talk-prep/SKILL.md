@@ -17,9 +17,10 @@ Parse it to get the markdown chapter file path. If none is provided, ask the use
 
 Derive the output filename from the chapter filename: strip the extension and append `-hard-questions.md`. For example, `ch03-best-language.md` → `ch03-best-language-hard-questions.md`. The output file goes in the same directory as the chapter.
 
+
 ## Step 1 — Read the chapter
 
-Read the full chapter file. As you extract items below, record the **line number(s)** where each item appears — you will cite them in every subsequent step.
+Read the full chapter file. As you extract items below, record the **line number(s)** where each item appears — you will cite them in every subsequent step. Make grammar and Orthography corrections as needed.
 
 Extract:
 
@@ -28,6 +29,7 @@ Extract:
 - **Provocative statements** — anything that could trigger pushback from developers, managers, or skeptics (line # for each)
 - **Named people, companies, tools, or events** — everything that can be fact-checked (line # for each)
 - **Implicit assumptions** — things the author takes for granted but never proves (line # for each)
+
 
 ## Step 2 — Historical fact-check
 
@@ -49,8 +51,9 @@ For each finding, state:
 - The chapter's claim **and the line number where it appears**
 - What recent evidence says
 - Whether this **strengthens**, **weakens**, or **complicates** the argument
+- Indicate the sources and dates for each piece of evidence
 
-Search at least 4–6 distinct claims. Do not fabricate search results. If a search returns nothing definitive, say so.
+Search at least 4–6 distinct claims in parallel subagents to avoid context rot. Do not fabricate search results. If a search returns nothing definitive, say so.
 
 ## Step 4 — Identify audience pressure points
 
