@@ -2,7 +2,7 @@
 
 ## The Leadership Contradiction
 
-One of the biggest contradictions I had in my career when I was young, was watching people managing companies or teams with little or none technical skills. Keep in mind I was a T-Shaped engineer back then and to me the most important thing in the world was code excellence. I struggled understanding why a manager could lead a team without coding or not at least in recent years. Take for instance a Proyect Manager, they manage people but they rarely, or never, coded.
+One of the biggest contradictions I had in my career when I was young, was watching people managing companies or teams with little or none technical skills. Keep in mind I was a T-Shaped engineer back then and to me the most important thing in the world was code excellence. I struggled understanding why a manager could lead a team without coding or at least not recentl in previous years. Take for instance a Proyect Manager, they manage people but they rarely, or never, coded.
 
 It didn't feel fair. I mean, to me the best coder should be the best leader, right? But my EQ (Emotional Intelligence) was zero. 
 
@@ -12,11 +12,25 @@ Great technicians, with great human skills, have escalated the professional ladd
  
 **However, Technical Mastery can take you as far as technical complexities go.**
 
-Even in the Software Architecture career there's a limit of how much you can grow and how much complexity a system can have. Even the most complicated project is broken down in pieces a team of professionals can handle. Take for instance the project to get to Mars, there's not a single team doing the entire project, there are hundreds of teams, wth thounsands of people, working in individual problems. But the key at that point is how to coordinate teams instead of coordinating individuals.
+Even in the Software Architecture career there's a limit of how much you can grow and how much complexity a system can have. Even the most complicated project is broken down in pieces in such of way a team of professionals can handle. Take for instance the project to get to Mars, there's not a single team doing the entire project, there are hundreds of teams, wth thousands of people working in individual feasible problems. But the key at that level of complexity is how to coordinate teams instead of coordinating individuals.
 
 **There's a limit of how deep the T-Shape can get. But also, there's a limit of how many sticks an M can have**
 
+So, even though we evolve from T to M, there's a professional ladder we should climb. Think of it as a 3D space: you can get deeper in X axis of technology, you can move left to right in the Y axis of technological breadth, and you can move in the Z axis of the seniorities dimension... all at the same time!
 
+**But here's the catch, you can downgrade in your seniority as well!**
+
+During my role as a manager, I have had to downgrade many so called architects who made a career in less technical companies that don't pass the architect's skills bar in my company. But because of their expertise, we designated them as Team Leads instead. 
+
+This is also true when you stay for too long in a project, little by little you become *technically obsolete*. The technology outside of the project keeps evolving, so you have to keep up with the technology and with the people.
+
+**Technologies change from project to project. Same as people. But Leading people is always the same**
+
+The comfort zone for most of Software Engineers is seating behind a keyboard. Mastering our craft while playing with the new stuff like Agents, MCP's and agentic workflows.
+
+**But, AI demonstrated how fruitless is to try to master every technology**
+
+New AI teams (some people call them *AI pods*), are required to be more autonomous, more business-driven
 
 ## Seniority Pyramid
 
